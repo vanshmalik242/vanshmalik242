@@ -14,6 +14,9 @@ Email Me 👉 ✉️ **vanshmalik862@gmail.com** For Collaboration/Project or An
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.v4nshmalik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-malik-3ba843291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vanshmalik862@gmail.com) 
 
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -30,7 +33,7 @@ Email Me 👉 ✉️ **vanshmalik862@gmail.com** For Collaboration/Project or An
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vanshmalik242&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
